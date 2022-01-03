@@ -1,0 +1,74 @@
+{
+    "menu": [
+        {
+            "kategori": "snack",
+            "nama": "CHEESY RASHER FRIES",
+            "deskripsi": "Fresh crunchy fries with cheese sauce and rashers topping.",
+            "harga": 14000,
+            "gambar": "snack1.jpg"
+        },
+        {
+            "kategori": "snack",
+            "nama": "CHEESY FRIES",
+            "deskripsi": "Cheesy Fries ukuran Regular.",
+            "harga": 11000,
+            "gambar": "snack2.png"
+        },
+        {
+            "kategori": "snack",
+            "nama": "CHOCO PIE",
+            "deskripsi": "Pie isi Coklat Double",
+            "harga": 11000,
+            "gambar": "snack3.jpg"
+        },
+        {
+            "kategori": "nasi",
+            "nama": "MOZZA BBQ AYAM NASI KING BOX",
+            "deskripsi": "Nasi King box isi Ayam dengan saus BBQ & Keju Mozzarella.",
+            "harga": 18000,
+            "gambar": "nasi1.jpg"
+        },
+        {
+            "kategori": "nasi",
+            "nama": "MOZZA CHILLI MAYO AYAM NASI KING BOX",
+            "deskripsi": "Nasi King box isi Ayam dengan saus Chilli Mayo & Keju Mozzarella",
+            "harga": 18000,
+            "gambar": "nasi2.jpg"
+        },
+        {
+            "kategori": "nasi",
+            "nama": "MOZZA JALAPENO AYAM NASI KING BOX",
+            "deskripsi": "Nasi King box isi Ayam dengan saus Jalapeno & Keju Mozzarella.",
+            "harga": 18000,
+            "gambar": "nasi3.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "CHEESEBURGER",
+            "deskripsi": "100% daging sapi Australia juicy yang dipanggang sempurna dengan kesegaran acar, saus mustard, saus tomat, dan potongan keju yang gurih, serta dibungkus dengan roti bun panggang lembut.",
+            "harga": 43000,
+            "gambar": "bur1.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "MUSHROOM SWISS",
+            "deskripsi": "100% daging sapi Australia juicy yang dipanggang sempurna, saus mushroom yang creamy, dengan irisan keju yang dibungkus dengan roti bun panggang lembut.",
+            "harga": 46000,
+            "gambar": "bur2.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "BBQ BEEF RASHER BURGER",
+            "deskripsi": "100% daging sapi Australia juicy yang dipanggang sempurna, renyahnya irisan daging rasher, olesan saus BBQ khas Amerika dan potongan keju, serta dibungkus dengan roti bun panggang lembut.",
+            "harga": 45000,
+            "gambar": "bur3.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "WHOPPER® JR.",
+            "deskripsi": "100% daging sapi Australia juicy yang dipanggang sempurna dengan daun selada, irisan bawang, dan tomat yang segar dibalut dengan saus mayonais dan saus tomat dan dibungkus dengan roti bun panggang lembut.",
+            "harga": 38000,
+            "gambar": "bur4.png"
+        }
+    ]
+}
